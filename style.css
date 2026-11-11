@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  background-color: #F7F3EC;
+  color: #171614;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+header {
+  background-color: #1D1B19;
+  color: #F7F3EC;
+  padding: 24px;
+}
+
+nav a {
+  color: #F7F3EC;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #B89A5A;
+}
+
+h1,
+h2 {
+  font-weight: normal;
+}
+
+section {
+  padding: 32px 24px;
+  border-bottom: 1px solid #DED7CB;
+}
+
+button {
+  background-color: #B89A5A;
+  color: #171614;
+  border: none;
+  padding: 12px 20px;
+  font: inherit;
+}
